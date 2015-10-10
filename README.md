@@ -24,4 +24,4 @@ http://blog.csdn.net/doctor_who2004/article/details/46974695
 
 http://leoncom.org/?p=650847&utm_source=tuicool
 http://twitter.github.io/zipkin/
-research.google.com/archive/papers/dapper-2010-1.pdf
+http://bigbully.github.io/Dapper-translation/

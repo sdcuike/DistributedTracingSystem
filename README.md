@@ -9,6 +9,8 @@ http://bigbully.github.io/Dapper-translation/
 http://www.cnblogs.com/zhengyun_ustc/p/55solution2.html
 
 http://htrace.incubator.apache.org/
+https://github.com/apache/incubator-htrace
+
 
 Hydra - 京东开源的基于Dubbo的调用分布跟踪系统
 

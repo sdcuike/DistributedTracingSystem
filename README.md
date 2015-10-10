@@ -25,3 +25,6 @@ http://blog.csdn.net/doctor_who2004/article/details/46974695
 http://leoncom.org/?p=650847&utm_source=tuicool
 http://twitter.github.io/zipkin/
 http://bigbully.github.io/Dapper-translation/
+
+http://tonybai.com/2015/06/17/appdash-distributed-systems-tracing-in-go/
+

@@ -41,3 +41,20 @@ http://tonybai.com/2015/06/17/appdash-distributed-systems-tracing-in-go/
 
 https://github.com/openzipkin/brave
 
+______________
+## 2016
+https://dzone.com/articles/distributed-tracing-with-spring-cloud-sleuth-and-s
+
+https://github.com/joshlong/sleuth-blog/tree/master/zipkin-web
+
+https://github.com/joshlong/sleuth-blog
+
+http://oss.jfrog.org/artifactory/oss-snapshot-local/io/zipkin/zipkin-web/1.28.1-SNAPSHOT/
+https://github.com/spring-cloud/spring-cloud-sleuth
+
+https://github.com/opentracing
+
+http://research.google.com/pubs/pub36356.html
+
+
+http://start.spring.io/

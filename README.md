@@ -58,6 +58,8 @@ https://github.com/opentracing
 http://research.google.com/pubs/pub36356.html
 
 http://opentracing.io/spec/
+https://github.com/opentracing/opentracing-java
+
 
 http://start.spring.io/
 

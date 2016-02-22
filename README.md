@@ -57,6 +57,7 @@ https://github.com/opentracing
 
 http://research.google.com/pubs/pub36356.html
 
+http://opentracing.io/spec/
 
 http://start.spring.io/
 

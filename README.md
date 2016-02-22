@@ -50,6 +50,7 @@ https://github.com/joshlong/sleuth-blog/tree/master/zipkin-web
 https://github.com/joshlong/sleuth-blog
 
 http://oss.jfrog.org/artifactory/oss-snapshot-local/io/zipkin/zipkin-web/1.28.1-SNAPSHOT/
+
 https://github.com/spring-cloud/spring-cloud-sleuth
 
 https://github.com/opentracing

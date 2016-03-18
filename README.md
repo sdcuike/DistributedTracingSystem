@@ -89,3 +89,7 @@ ___________
 https://github.com/inspectIT/inspectIT
 
 https://github.com/naver/pinpoint
+
+https://github.com/TeaTips/SplunkJavaAgent
+
+https://github.com/maxikg/MinePM

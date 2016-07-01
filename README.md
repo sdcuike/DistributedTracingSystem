@@ -87,6 +87,8 @@ https://github.com/Flipkart/phantom/wiki/Distributed-Tracing
 
 https://github.com/javamelody/javamelody
 
+https://github.com/stevensouza/automon
+
 
 ___________
 # Open Source APM (application performance management)

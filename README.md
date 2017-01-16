@@ -123,7 +123,7 @@ https://github.com/glowroot/glowroot
 https://github.com/stagemonitor/stagemonitor
 
 
-
+https://github.com/uber/jaeger-client-java   Jaeger Bindings for Java OpenTracing API http://uber.github.io/jaeger/
 
 # other ARM
 

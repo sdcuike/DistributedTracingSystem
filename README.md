@@ -135,3 +135,6 @@ https://github.com/uber/jaeger-client-java   Jaeger Bindings for Java OpenTracin
 https://plumbr.eu/
 
 https://www.jclarity.com
+
+
+https://github.com/hawkular/hawkular-apm

@@ -2,6 +2,8 @@
 
 https://github.com/opentracing  标准成立了
 
+https://github.com/opentracing-contrib/opentracing-specification-zh 中文版
+
 
 https://uber.github.io/jaeger/
 
@@ -28,6 +30,9 @@ https://github.com/openzipkin/zipkin
 
 
 https://github.com/naver/pinpoint
+
+中国完全社区化的自动java追踪系统
+https://github.com/wu-sheng/sky-walking
 
 https://github.com/Nike-Inc/wingtips
 

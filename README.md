@@ -2,6 +2,7 @@
 
 https://github.com/opentracing  标准成立了
 
+https://github.com/opentracing-contrib
 
 https://uber.github.io/jaeger/
 

@@ -1,10 +1,14 @@
 # -分布式系统的跟踪系统 
 
 https://github.com/opentracing  标准成立了
+http://opentracing.io
+
 
 https://github.com/opentracing-contrib
 
 https://uber.github.io/jaeger/
+https://github.com/uber/jaeger
+
 
 
 其实，一些大公司已经有了这样的分布式跟踪应用，比如：

@@ -3,6 +3,7 @@
 https://github.com/opentracing  标准成立了
 http://opentracing.io
 
+http://servicecomb.io
 
 https://github.com/opentracing-contrib
 

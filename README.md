@@ -1,14 +1,29 @@
 # -分布式系统的跟踪系统 
 
+https://www.cncf.io
+
 https://github.com/opentracing  标准成立了
+http://opentracing.io
+
+http://servicecomb.io
+
 
 https://github.com/opentracing-contrib/opentracing-specification-zh 中文版
 
 
+https://github.com/opentracing-contrib
+
+
 https://uber.github.io/jaeger/
+https://github.com/uber/jaeger
+
 
 
 其实，一些大公司已经有了这样的分布式跟踪应用，比如：
+
+https://github.com/open-falcon/falcon-plus  小米开源的
+
+https://github.com/wu-sheng/sky-walking
 
 
 http://bigbully.github.io/Dapper-translation/
@@ -145,3 +160,9 @@ https://www.jclarity.com
 https://github.com/hawkular/hawkular-apm
 
 https://github.com/javamelody/javamelody
+
+
+
+
+------------------------
+### 一般离不开rpc框架，整理在了[https://github.com/sdcuike/issueBlog/issues/101](https://github.com/sdcuike/issueBlog/issues/101)
